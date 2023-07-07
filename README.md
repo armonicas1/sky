@@ -110,18 +110,14 @@ The streamlit application is available at:
 # Credits
 
 <p>
-The project sky was carried out as part of a Data Scientist training course at the DataScientest institute <a href="https://datascientest.com">(datascientest.com)</a> </p>
+The project sky was carried out as student project for Data Scientist training course at the DataScientest institute <a href="https://datascientest.com">(datascientest.com)</a> </p>
 
 <p><u>Project members:</u><br>
-<a href="https://www.linkedin.com/in/yann-bernery-772a58112/" target="new" rel="noopener noreferrer">
-Yann BERNERY <img src="./streamlit/ressources/linkedin.png" width=20px alt="Yann BERNERY"/></a><br>
-<a href="https://www.linkedin.com/in/ludovic-changeon-9047141b1/" target="new" rel="noopener noreferrer">
-Ludovic CHANGEON <img src="./streamlit/ressources/linkedin.png" width=20px alt="Ludovic CHANGEON"/></a><br>
-<a href="https://www.linkedin.com/in/cathy-baynaud-samson-b2637817/" target="new" rel="noopener noreferrer">
-Cathy BAYNAUD SAMSON <img src="./streamlit/ressources/linkedin.png" width=20px alt="Cathy BAYNAUD SAMSON"/></a><br>
-<a href="https://www.linkedin.com/in/jos%C3%A9-castro-7b62697b/" target="new" rel="noopener noreferrer">
-Jos&eacute; CASTRO <img src="./streamlit/ressources/linkedin.png" width=20px alt="Jos&eacute; CASTRO"/></a></p>
+<a href="https://www.linkedin.com/in/hans-schauer-454324235/" target="new" rel="noopener noreferrer">
+Hans Schauer <img src="./streamlit/ressources/linkedin.png" width=20px alt="Hans Schauer"/></a><br>
+<a href="https://www.linkedin.com/in/hans-schauer-454324235/" target="new" rel="noopener noreferrer">
+Georg Wolf <img src="./streamlit/ressources/linkedin.png" width=20px alt="Georg Wolf"/></a></p>
 
 <p><u>Project mentor:</u><br>
-<a href="https://www.linkedin.com/in/paul-dechorgnat/" target="new" rel="noopener noreferrer">
-Paul DECHORGNAT (DataScientest) <img src="./streamlit/ressources/linkedin.png" width=20px alt="Paul DECHORGNAT (DataScientest) "/></a></p>
+<a href="https://www.linkedin.com/in/hans-schauer-454324235/" target="new" rel="noopener noreferrer">
+Victor (DataScientest) <img src="./streamlit/ressources/linkedin.png" width=20px alt="Victor (DataScientest) "/></a></p>
